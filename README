@@ -1,0 +1,8 @@
+Putting this up on Github, hopefully someone else might find it useful.
+
+Google Contact Export Parser
+
+Importing contacts from something like MS Outlook can screw up various fields.
+While I haven't figured out a way to resolve these issues automatically, this
+is at the very list a framework which can be used to print out problem fields
+and/or attempt to fix problems.
